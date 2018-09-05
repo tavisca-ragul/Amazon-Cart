@@ -1,0 +1,7 @@
+C:\Users\rkrishnan\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+C:\Users\rkrishnan\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe
+C:\Users\rkrishnan\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.pdb
+C:\Users\rkrishnan\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csprojAssemblyReference.cache
+C:\Users\rkrishnan\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csproj.CoreCompileInputs.cache
+C:\Users\rkrishnan\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe
+C:\Users\rkrishnan\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.pdb
